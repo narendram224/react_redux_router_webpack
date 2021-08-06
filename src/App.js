@@ -9,7 +9,6 @@ const App = () => {
         <Provider store={store} >
         <ConnectedRouter history={history}>
             <Switch>
-
               <Route exact path="/" component={UserPage} />  
             </Switch>
         </ConnectedRouter>

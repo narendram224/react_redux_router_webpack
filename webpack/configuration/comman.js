@@ -32,7 +32,7 @@ module.exports = {
         ]
     },
     plugins: [new HtmlWebPackPlugin({
-        title:'React_redux_Apllication',
+        title:'React_redux_application',
         template:'./src/index.html',
         
     })]
