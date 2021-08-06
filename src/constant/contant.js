@@ -1,0 +1,1 @@
+export const GET_ALL_USER_URL = 'https://jsonplaceholder.typicode.com/users/1/todos'
